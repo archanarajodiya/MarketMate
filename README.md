@@ -1,1 +1,1 @@
-# MarketMate
+# Stock Performance Analysis
